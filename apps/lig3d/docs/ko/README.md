@@ -1,5 +1,5 @@
 # Description 
-
+test
 Lig3D는 화합물의 1차원 혹은 2차원 정보를 입력받아 Docking에 필요한 3차원 구조를 생성하는 앱입니다. \
 화합물 생성은 RDKit의 ETKDGv3방법을 이용합니다. [1][2]
 
